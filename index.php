@@ -13,7 +13,7 @@
 			'popularity' => '2'
 			));
 
-
+	//функция сортировки
 	function my_sort($a, $b)
 	{
 		if($a['popularity'] == $b['popularity'])
